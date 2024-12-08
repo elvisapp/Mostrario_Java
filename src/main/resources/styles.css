@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: #f80808;
+}
+
+.table-view {
+    -fx-background-color: #12e050;
+    -fx-text-fill: #ffffff;
+}
+
+.table-column-header {
+    -fx-background-color: #e2cc07;
+    -fx-text-fill: #ffffff;
+}
